@@ -1,4 +1,5 @@
-# hider.js - a lightweight jquery / css3 modular hide/show plugin
+# hider.js
+######A lightweight jquery / css3 modular hide/show plugin
 
 ## Requires JQuery
 ####Download here
