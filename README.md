@@ -5,9 +5,11 @@
 ####Download here
 http://jquery.com/download
 ####Remote link
+Include this in the header of your HTML file
 ```html
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 ```
+
 
 
 ##Install hider.js
@@ -26,10 +28,3 @@ Include this in the header of your HTML file
   <link type="text/css" rel="stylesheet" href="YOUR_FILE_PATH/hider.js" />
   ```
 4. Remember to change YOUR_FILE_PATH to the correct file path of the CSS file
-
-
-
-
-
-
-##HTML Markdown examples
