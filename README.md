@@ -13,13 +13,15 @@ Include this in the header of your HTML file
 
 
 ##Install hider.js
-####Remote link
+####With remote link
 Include this in the header of your HTML file
 ```html
 <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rwlumino/hider/master/hider.css" />
 <script type="text/javascript" rel="https://cdn.rawgit.com/rwlumino/hider/master/hider.css"></script>
 ```
-####Local link
+OR
+
+####With local link
 1. Click Download ZIP on the right
 2. Extract .zip to your project folder
 3. Link in the header of your HTML file:
