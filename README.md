@@ -23,7 +23,7 @@ Include this in the header of your HTML file
 1. Click Download ZIP on the right
 2. Extract .zip to your project folder
 3. Link in the header of your HTML file:
-  ```
+  ```html
   <link type="text/css" rel="stylesheet" href="YOUR_FILE_PATH/hider.css" />
   <link type="text/css" rel="stylesheet" href="YOUR_FILE_PATH/hider.js" />
   ```
