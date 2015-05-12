@@ -17,7 +17,7 @@ Include this in the header of your HTML file
 Include this in the header of your HTML file
 ```html
 <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rwlumino/hider/master/hider.css" />
-<script type="text/javascript" rel="https://cdn.rawgit.com/rwlumino/hider/master/hider.css"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/rwlumino/hider/master/hider.js"></script>
 ```
 OR
 
