@@ -1,9 +1,9 @@
 # hider.js - a lightweight jquery / css3 modular hide/show plugin
 
 ## Requires JQuery
-###Download here
+####Download here
 http://jquery.com/download
-###Remote link
+####Remote link
 ```html
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 ```
