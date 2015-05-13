@@ -8,5 +8,8 @@
 .spin180{ transform: rotate(180deg) scaleX(0.6); -webkit-transform: rotate(180deg) scaleX(0.6); -ms-transform: rotate(180deg) scaleX(0.6); transition: 0.3s ease; }
 .spin90{ transform:rotate(90deg scaleX(0.6)); -webkit-transform: rotate(180deg) scaleX(0.6); -ms-transform: rotate(180deg) scaleX(0.6); transition: 0.3s ease; }
 
+/* Hides these classes on mobile only, perm class is never visible on mobile even when show-more button is clicked */
+@media screen and (max-device-width:991px){ 
+    .hide-this-mobile-perm{ display:none !important; }
     .hide-this-mobile{ display:none }
 }
