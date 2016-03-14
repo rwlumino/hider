@@ -3,7 +3,7 @@
 
 ##Install hider.js
 ####Bower (recommended)
-bower install --save
+bower install --save hider
 ####CDN
 Include this in the header of your HTML file
 ```html
