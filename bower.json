@@ -1,0 +1,29 @@
+{
+  "name": "hider",
+  "main": "hider.js",
+  "homepage": "https://github.com/rwlumino/hider",
+  "authors": [
+    "rwlumino"
+  ],
+  "description": "A lightweight&modular jquery+css3 plugin for hiding&showing html elements",
+  "moduleType": [],
+  "keywords": [
+    "css",
+    "js",
+    "hide",
+    "show",
+    "module",
+    "front-end"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
