@@ -1,16 +1,5 @@
 # hider.js
-######A lightweight jquery / css3 modular hide/show plugin
-
-## Requires JQuery
-####Download here
-http://jquery.com/download
-####Remote link
-Include this in the header of your HTML file
-```html
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-```
-
-
+######A lightweight&modular jquery+css3 plugin for hiding&showing html elements
 
 ##Install hider.js
 ####With remote link
@@ -29,4 +18,6 @@ OR
 <link type="text/css" rel="stylesheet" href="YOUR_FILE_PATH/hider.css" />
 <link type="text/css" rel="stylesheet" href="YOUR_FILE_PATH/hider.js" />
 ```
+
+####Requires JQuery
 Remember to change YOUR_FILE_PATH to the correct file path of the CSS file
